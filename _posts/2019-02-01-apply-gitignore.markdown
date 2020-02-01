@@ -1,3 +1,10 @@
+---
+layout: post
+title:  ".gitignore 설정을 적용하는 방법"
+date:   2020-02-01 15:07:00 +0900
+categories: git
+---
+
 # .gitignore 설정을 적용하는 방법
 
 ### 1. .gitignore 파일을 수정한다
