@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "오브젝트 읽기 5장  책임 할당하기"
+date:   2020-01-12 12:07:00 +0900
+categories: book
+---
+
 # 5장  책임 할당하기
 
 - 데이터 중심 설계로 인해 발생하는 줌제점을 해결할 수 있는 가장 기본적인 방법?
@@ -94,3 +101,4 @@
 # 03. 구현을 통한 검증
 - 코드 베이스 설명이 많아 git repo로 대체한다.
 	- [GitHub - ljh3259/blog-repository](https://github.com/ljh3259/blog-repository)
+
